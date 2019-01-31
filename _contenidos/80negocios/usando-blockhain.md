@@ -34,6 +34,7 @@ Mayor info: https://docs.rsk.co/Drivechains_Sidechains_and_Hybrid_2-way_peg_Desi
 
 - Mineria
 
-La mineria es el trabajo o energia invertidos para generar y crear un activo. Su poder se basa en la capacidad de computo. 
+La mineria es el trabajo o energia requeridos para generar y crear un activo, o bien para la aprobacion de transacciones. 
+Su poder se basa en la capacidad de computo en caso de la PoW, o en la guarda de activos en caso de la PoS.
 Mayor informacion sobre ambos tipos de mineria y respondiendo al item 1 aqui:
 https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/
