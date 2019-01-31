@@ -1,0 +1,6 @@
+- PoW vs PoS y DPoS
+- Solucion al problema de los generales bizantinos
+- SegWit
+- Trusted third party
+- Side-chain y Cross-chain
+- Mineria
